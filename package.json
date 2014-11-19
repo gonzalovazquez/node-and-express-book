@@ -1,0 +1,15 @@
+{
+  "name": "node-book",
+  "version": "1.0.0",
+  "description": "Following the book Web development With Node And Express",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.10.2",
+    "express3-handlebars": "^0.5.2"
+  }
+}
